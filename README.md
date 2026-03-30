@@ -41,10 +41,6 @@ business insights into sales trends, customer behaviour, and regional performanc
 - Created a polished dashboard layout for quick business insights
 
 ---
-## 📸 Screenshots
-
-![Coffee Sales Dashboard](screenshots/coffee_sales_dashboard.png)
----
 
 ## 💡 Key Insights
 
@@ -55,5 +51,10 @@ business insights into sales trends, customer behaviour, and regional performanc
 
 ---
 
+## 📸 Screenshots
+
+![Coffee Sales Dashboard](screenshots/coffee_sales_dashboard.png)
+
+---
 
 Built with ❤️ using Microsoft Excel
