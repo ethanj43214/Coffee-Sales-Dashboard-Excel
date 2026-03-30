@@ -41,6 +41,10 @@ business insights into sales trends, customer behaviour, and regional performanc
 - Created a polished dashboard layout for quick business insights
 
 ---
+## 📸 Screenshots
+
+![Coffee Sales Dashboard](screenshots/coffee_sales_dashboard.png)
+---
 
 ## 💡 Key Insights
 
@@ -50,5 +54,6 @@ business insights into sales trends, customer behaviour, and regional performanc
 - Sales show clear seasonal peaks across 2019–2022
 
 ---
+
 
 Built with ❤️ using Microsoft Excel
